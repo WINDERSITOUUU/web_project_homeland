@@ -1,0 +1,12 @@
+.footer {
+}
+
+.footer__copyright {
+  margin: auto;
+  padding-top: 50px;
+  text-align: center;
+  font-family: Inter;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 400;
+}
